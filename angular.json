@@ -136,5 +136,8 @@
       }
     }
   },
-  "defaultProject": "darly-test"
+  "defaultProject": "darly-test",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
